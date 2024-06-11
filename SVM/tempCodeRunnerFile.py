@@ -1,0 +1,2 @@
+print("Running model for genre")
+    # scripts = ["SVM/Preprocessing/pre_processing.py", "SVM/feature_extraction/feature_extraction.py", "SVM/train/train_model_genre.py", "SVM/validation/evaluate_model_genre.py", "SVM/predict_genre.py"]
