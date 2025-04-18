@@ -1,7 +1,7 @@
 # README
 
 ## Project Overview
-My **2024 NLP Project: Semantic Analysis on Song Lyrics**, aims to develop a system that performs semantic analysis on song lyrics to classify them based on genre and emotion. By leveraging Natural Language Processing (NLP) techniques and machine learning models, the project seeks to create an automated solution for organizing and categorizing song lyrics, providing valuable insights into the linguistic and cultural aspects of music.
+My **NLP Project: Semantic Analysis on Song Lyrics**, aims to develop a system that performs semantic analysis on song lyrics to classify them based on genre and emotion. By leveraging Natural Language Processing (NLP) techniques and machine learning models, the project seeks to create an automated solution for organizing and categorizing song lyrics, providing valuable insights into the linguistic and cultural aspects of music.
 
 ## Features
 - **Feature Extraction**: Extracts lexical features (TF-IDF, word embeddings) and semantic features (sentiment analysis, figurative language detection) from song lyrics.
@@ -78,4 +78,4 @@ For any questions or further information, please contact:
 
 Evan Doster
 edoster@uoregon.edu
-University of Oregon, CS 410
+University of Oregon
